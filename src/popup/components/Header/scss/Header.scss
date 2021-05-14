@@ -1,0 +1,21 @@
+header.closed {
+	padding: 20px;
+
+	button {
+		padding: 0px;
+
+		svg {
+			margin: auto 0px;
+			color: white;
+			width: 25px;
+			height: 25px;
+		}
+	}
+
+	img {
+		width: 50px;
+		height: 45px;
+		z-index: 3;
+		border-radius: 50%;
+	}
+}
